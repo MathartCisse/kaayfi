@@ -1,0 +1,11 @@
+{
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "kaayfi.sqlite",
+      "maxDuration": 15
+    }
+  },
+  "env": {
+    "KAAYFI_READONLY": "1"
+  }
+}

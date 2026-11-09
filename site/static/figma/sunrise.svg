@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="sunrise" clip-path="url(#clip0_0_9)">
+<path id="Vector" d="M8 1.3328V6.66656M10.6669 3.99968L8 1.3328L5.33312 3.99968M3.28608 7.2864L4.22616 8.22648M1.3328 12.0003H2.66624M13.3338 12.0003H14.6672M12.7138 7.2864L11.7737 8.22648M14.6672 14.6672H1.3328M10.6669 12.0003C10.6669 11.293 10.3859 10.6147 9.88577 10.1146C9.38563 9.61441 8.7073 9.33344 8 9.33344C7.2927 9.33344 6.61437 9.61441 6.11423 10.1146C5.61409 10.6147 5.33312 11.293 5.33312 12.0003" stroke-width="2" stroke-linecap="round" stroke="#1C1E1B"/>
+</g>
+<defs>
+<clipPath id="clip0_0_9">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
